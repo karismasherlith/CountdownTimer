@@ -1,5 +1,3 @@
-'''TEACHNOOK MINOR PROJECT : SIMPLE COUNTDOWN TIMER - SUBMITTED BY KARISMA SHERLITH'''
-
 #IMPORTING THE MODULES
 import tkinter as tk            #Library to create a graphical user interface
 import datetime as dt           #Library to work with date and time datas
